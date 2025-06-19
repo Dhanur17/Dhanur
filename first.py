@@ -23,7 +23,8 @@ print("child"if(b<100)else "elder")
 print("even"if(b%2==0)else "odd")
 if 5==5: 
     pass
-print() 
+print()
+
 for i in range(1,10) :
     if i == 4:
         print("uh")
